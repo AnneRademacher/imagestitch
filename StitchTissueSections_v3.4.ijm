@@ -84,7 +84,7 @@ if (meta.length == 0){
 			meta = dir + meta[0];
 			}
 		}
-
+ 
 ctrl=0;
 montage=0;
 objective=0;
