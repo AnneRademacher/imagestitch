@@ -1,1 +1,1 @@
-# Stitch Image
+# Stitch Tile Scans
